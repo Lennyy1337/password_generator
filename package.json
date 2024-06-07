@@ -1,6 +1,6 @@
 {
   "name": "13_password_generator",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "private": false,
   "type": "module",
   "scripts": {
@@ -12,6 +12,7 @@
   "dependencies": {
     "@nextui-org/react": "^2.4.1",
     "framer-motion": "^11.2.10",
+    "generate-password": "^1.7.1",
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
