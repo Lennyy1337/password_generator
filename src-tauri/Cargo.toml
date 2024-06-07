@@ -1,11 +1,11 @@
 [package]
-name = "app"
-version = "0.1.0"
+name = "password_generator"
+version = "0.1.1"
 description = "A Tauri App"
-authors = ["you"]
+authors = ["lennyy1337"]
 license = ""
-repository = ""
-default-run = "app"
+repository = "https://github.com/Lennyy1337/password_generator"
+default-run = "password_generator"
 edition = "2021"
 rust-version = "1.60"
 
