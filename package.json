@@ -1,7 +1,7 @@
 {
   "name": "13_password_generator",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.0.3",
+  "private": false,
   "type": "module",
   "scripts": {
     "dev": "next dev",
