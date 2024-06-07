@@ -9,7 +9,9 @@ This project uses next.js with tauri.
 - Build with `pnpm build`
 - Run with `pnpm start`
 
-You can also with vercel
+You can also with vercel by importing this github repo. 
+
+
 ![Vercel](https://vercelbadge.vercel.app/api/lennyy1337/password_generator)
 
 # To use the desktop version
